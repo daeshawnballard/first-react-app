@@ -3,6 +3,13 @@
     width: 100%; 
     padding: 50px 0; 
     z-index: 100; /* if high, allows this element to be on top or in-front of everything */
+    transition: 0.8s cubic-bezier(0.02, 0.8, 0.2, 1);
+}
+
+.HeaderScrolled {
+    background: rgba(0,0,0, 0.8);
+    padding: 15px 0;
+    backdrop-filter: blur(20px);
 }
 
 .HeaderGroup {
