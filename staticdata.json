@@ -1,0 +1,52 @@
+{
+    "cells": [
+        {
+            "title": "Intro to React",
+            "image": "https://s3.us-east-2.amazonaws.com/first-react-app-images/logo-react.png"
+        },
+        {
+            "title": "Basic Styling in CSS",
+            "image": "https://s3.us-east-2.amazonaws.com/first-react-app-images/logo-react.png"
+        },
+        {
+            "title": "Interactions and Animations",
+            "image": "https://s3.us-east-2.amazonaws.com/first-react-app-images/logo-react.png"
+        },
+        {
+            "title": "Adaptive Layout with CSS Grid",
+            "image": "https://s3.us-east-2.amazonaws.com/first-react-app-images/logo-react.png"
+        },
+        {
+            "title": "Components and Props",
+            "image": "https://s3.us-east-2.amazonaws.com/first-react-app-images/logo-react.png"
+        },
+        {
+            "title": "States and Events",
+            "image": "https://s3.us-east-2.amazonaws.com/first-react-app-images/logo-react.png"
+        },
+        {
+            "title": "Multipe Pages",
+            "image": "https://s3.us-east-2.amazonaws.com/first-react-app-images/logo-react.png"
+        },
+        {
+            "title": "JSON Static Data",
+            "image": "https://s3.us-east-2.amazonaws.com/first-react-app-images/logo-react.png"
+        },
+        {
+            "title": "Data with Contentful",
+            "image": "https://s3.us-east-2.amazonaws.com/first-react-app-images/logo-react.png"
+        },
+        {
+            "title": "Contact form and Posting Data",
+            "image": "https://s3.us-east-2.amazonaws.com/first-react-app-images/logo-react.png"
+        },
+        {
+            "title": "Payments with Stripe",
+            "image": "https://s3.us-east-2.amazonaws.com/first-react-app-images/logo-react.png"
+        },
+        {
+            "title": "Publish to Netlify",
+            "image": "https://s3.us-east-2.amazonaws.com/first-react-app-images/logo-react.png"
+        }
+    ]
+}
